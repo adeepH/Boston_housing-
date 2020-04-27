@@ -38,6 +38,7 @@ B: 1000(Bk — 0.63)², where Bk is the proportion of [people of African America
 - Please refer `DecisionTree.py` for the predictions done using Decision Tree Regression.
 - Please refer `XGBoost.py` for the predictions done using XGBoost Regressor.
 - please refer `Neural_Network.py` for the model who's predictions are done using Keras 
+- please refer `_filename.png ` for the respective graphs of the specified algorithms
 
 # **Target Variable**
  - `MEDV`: median value of owner-occupied homes
